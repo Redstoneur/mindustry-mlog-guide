@@ -52,7 +52,7 @@ Le guide est divisé en plusieurs sections, chacune couvrant un aspect spécifiq
 un aperçu des sections actuellement disponibles :
 
 1. [Composants logiques](sections/composants.md)
-2. [Variables et opérateurs](sections/variables.md)
+2. [Variables et opérateurs](sections/variables-et-operateurs.md)
 3. [Brique de Commande](sections/brique-de-commande.md)
 4. [Configuré une IA de text pour la création de code](sections/ia.md)
 

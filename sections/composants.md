@@ -4,7 +4,7 @@ Dans cette section, nous allons explorer les composants logiques de base disponi
 sont essentiels pour la création de circuits logiques et de systèmes de contrôle sophistiqués. Nous allons examiner
 chaque composant en détail, en expliquant son fonctionnement et en présentant des exemples d'utilisation.
 
-![Composants logiques](../screenshots/composants-logique.png)
+![Composants logiques](../screenshots/composants-logique.PNG)
 
 ---
 

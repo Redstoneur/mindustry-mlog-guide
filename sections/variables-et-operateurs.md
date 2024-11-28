@@ -141,4 +141,4 @@ Les opérateurs de comparaison sont utilisés pour comparer des variables et des
 
 ---
 
-[Précédent](composants.md) | [🏠](../README.md) | [Suivant](brique-de-commande.md)
+[Précédent](composants.md) | [🏠](../README.md) | [Suivant](mots-cles.md)

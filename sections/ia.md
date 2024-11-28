@@ -1,4 +1,4 @@
-# Liste des commandes en `mlog`
+# Configuré une IA de text pour la création de code en `mlog`
 
 
 

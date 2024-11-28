@@ -65,6 +65,24 @@ disponible pour tous les processeurs. Ils sont tous de type `content`.
 | mélange explosif	   | @blast-compound | ![blast-compound](../screenshots/materiaux/melange-explosif.PNG) |
 | pyratite	           | @pyratite       | ![pyratite](../screenshots/materiaux/pyratite.PNG)               |
 
+### Variable de Liquides
+
+Les variables de liquides sont des variables qui peuvent être utilisées dans n'importe quelle partie de votre code et
+disponible pour tous les processeurs. Ils sont tous de type `content`.
+
+| Nom       | Nom IG     | Image                                               |
+|-----------|------------|-----------------------------------------------------|
+| eau       | @water     | ![water](../screenshots/liquides/eau.PNG)           |
+| scorie    | @slag      | ![slag](../screenshots/liquides/scorie.PNG)         |
+| pétrole   | @oil       | ![oil](../screenshots/liquides/petrole.PNG)         |
+| cryofluid | @cryofluid | ![cryofluid](../screenshots/liquides/cryofluid.PNG) |
+| néoplasme | @neoplasm  | ![neoplasm](../screenshots/liquides/neoplasme.PNG)  |
+| arkydite  | @arkycite  | ![arkycite](../screenshots/liquides/arkycite.PNG)   |
+| ozone     | @ozone     | ![ozone](../screenshots/liquides/ozone.PNG)         |
+| hydrogène | @hydrogen  | ![hydrogen](../screenshots/liquides/hydrogene.PNG)  |
+| azote     | @nitrogen  | ![nitrogen](../screenshots/liquides/azote.PNG)      |
+| cyanogène | @cyanogen  | ![cyanogen](../screenshots/liquides/cyanogene.PNG)  |
+
 ### Variable d'unités
 
 Les variables d'unités sont des variables qui peuvent être utilisées dans n'importe quelle partie de votre code et

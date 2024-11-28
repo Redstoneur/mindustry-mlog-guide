@@ -49,4 +49,3 @@ Tableau des Différents écrans :
 ---
 
 [Précédent](../README.md) | [🏠](../README.md) | [Suivant](variables-et-operateurs.md)
-

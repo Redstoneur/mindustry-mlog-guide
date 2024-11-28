@@ -48,5 +48,5 @@ Tableau des Différents écrans :
 
 ---
 
-[Précédent](../README.md) | [Suivant](variables-et-operateurs.md)
+[Précédent](../README.md) | [🏠](../README.md) | [Suivant](variables-et-operateurs.md)
 

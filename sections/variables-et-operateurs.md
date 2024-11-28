@@ -13,14 +13,15 @@ d'autres types de données. Les variables sont utilisées pour stocker des infor
 paramètres de configuration ou des états de système. Voici les différents types de variables disponibles dans le
 langage `mlog` :
 
-| Type de Variable     | Nom      | Description                                                                                                                                                                                     |
-|----------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Numérique            | number   | Les variables numériques stockent des valeurs numériques, telles que des entiers ou des nombres à virgule flottante.                                                                            |
-| Chaîne de Caractères | string   | Les variables de chaîne de caractères stockent des séquences de caractères, telles que des mots ou des phrases.                                                                                 |
-| Booléen              | boolean  | Les variables booléennes stockent des valeurs booléennes, telles que `true` ou `false`. Même si il sont transformer en number lors du stockage dans une variable (0 pour false et 1 pour true). |
-| Objet                | content  | Les variables de type objet stockent des valeurs d'entité, telles que des matériaux ou des ressources.                                                                                          |
-| Unitées              | content  | Les variables de type unit stockent des valeurs d'entité qui sont des unités.                                                                                                                   |
-| Batiments            | building | Les variables de type building stockent des valeurs de bâtiments.                                                                                                                               |
+| Type de Variable     | Type          | Image                                          | Description                                                                                                                                                                                     |
+|----------------------|---------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Numérique            | `number`      | ![number](../screenshots/types/number.PNG)     | Les variables numériques stockent des valeurs numériques, telles que des entiers ou des nombres à virgule flottante.                                                                            |
+| Booléen              | `number[0,1]` | ![number](../screenshots/types/number.PNG)     | Les variables booléennes stockent des valeurs booléennes, telles que `true` ou `false`. Même si il sont transformer en number lors du stockage dans une variable (0 pour false et 1 pour true). |
+| Chaîne de Caractères | `string`      | ![string](../screenshots/types/string.PNG)     | Les variables de chaîne de caractères stockent des séquences de caractères, telles que des mots ou des phrases.                                                                                 |
+| Objet                | `content`     | ![content](../screenshots/types/content.PNG)   | Les variables de type objet stockent des valeurs d'entité, telles que des matériaux ou des ressources.                                                                                          |
+| Batiments            | `building`    | ![building](../screenshots/types/building.PNG) | Les variables de type building stockent des valeurs de bâtiments.                                                                                                                               |
+| Unitées              | `unit`        | ![unit](../screenshots/types/unit.PNG)         | Les variables de type unit stockent des valeurs d'entité qui sont des unités.                                                                                                                   |
+| Null                 | `null`        | ![null](../screenshots/types/null.PNG)         | Les variables de type null stockent des valeurs nulles.                                                                                                                                         |
 
 ---
 
@@ -45,7 +46,7 @@ disponible pour tous les processeurs.
 Les variables de matériaux sont des variables qui peuvent être utilisées dans n'importe quelle partie de votre code et
 disponible pour tous les processeurs. Ils sont tous de type `content`.
 
-| Nom                 | Nom IG          | image                                                            |
+| Nom                 | Nom IG          | Image                                                            |
 |---------------------|-----------------|------------------------------------------------------------------|
 | cuivre              | 	@copper        | ![copper](../screenshots/materiaux/cuivre.PNG)                   |
 | plomb               | 	@lead          | ![lead](../screenshots/materiaux/plomb.PNG)                      |
@@ -88,7 +89,7 @@ effectuer des calculs, des comparaisons et d'autres manipulations de données.
 
 Les opérateurs arithmétiques sont utilisés pour effectuer des opérations mathématiques sur des variables numériques.
 
-| Opérateur | Description                         | nom       | image                                                 |
+| Opérateur | Description                         | Nom       | Image                                                 |
 |-----------|-------------------------------------|-----------|-------------------------------------------------------|
 | +         | Addition                            | add       | ![add](../screenshots/operateurs/add.PNG)             |
 | -         | Soustraction                        | sub       | ![sub](../screenshots/operateurs/sub.PNG)             |
@@ -123,7 +124,7 @@ Les opérateurs arithmétiques sont utilisés pour effectuer des opérations mat
 
 Les opérateurs de comparaison sont utilisés pour comparer des variables et des valeurs.
 
-| Opérateur | Description         | nom           | image                                                         |
+| Opérateur | Description         | Nom           | Image                                                         |
 |-----------|---------------------|---------------|---------------------------------------------------------------|
 | ==        | Égal à              | equal         | ![equal](../screenshots/operateurs/equal.PNG)                 |
 | !=        | Différent de        | notEqual      | ![notEqual](../screenshots/operateurs/notEqual.PNG)           |

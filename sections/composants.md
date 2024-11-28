@@ -16,12 +16,12 @@ Tableau des Différents Processeurs :
 | Processeur       | Un composant plus avancé que le micro-processeur, capable d'exécuter des instructions plus rapidement. et sur une plus grande échelle. | 190   | 2 × 2                  | 6,71                        | 480               | 22              | 320 de `Plomb`, 60 de `Graphite`, 50 de `Tornium`, 50 de `Silicium`             |
 | Hyper-Processeur | Un composant haut de gamme, capable d'exécuter des instructions très rapidement et sur une très grande échelle.                        | 520   | 3 × 3                  | 9,62                        | 1500              | 42              | 450 de `Plomb`, 75 de `Tornium`, 150 de `Silicium`, 50 de `Alliage Superchargé` |
 
-L'Hyper-Processeur produit aussi du `liquide cryogénique` à un taux de 4.8 unités par seconde et peut en stocker 10
+L'Hyper-Processeur a besoin de `liquide cryogénique` à un taux de 4.8 unités par seconde et peut en stocker 10
 unités.
 
 ---
 
-Tableau des Différent Blocs de Mémoire :
+Tableau des Différents Blocs de Mémoire :
 
 | Composant         | Description                                                                    | Santé | Taille (block × block) | Durée de construction (sec) | Taille de stockage (nb variable) | Matériaux requis                                                        |
 |-------------------|--------------------------------------------------------------------------------|-------|------------------------|-----------------------------|----------------------------------|-------------------------------------------------------------------------|

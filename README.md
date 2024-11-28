@@ -53,7 +53,7 @@ un aperçu des sections actuellement disponibles :
 
 1. [Composants logiques](sections/composants.md)
 2. [Variables et opérateurs](sections/variables-et-operateurs.md)
-3. [Liste des mots-clés en `mlog`](sections/mots-cles.md)
+3. [Liste des commandes en `mlog`](sections/commandes.md)
 4. [Configuré une IA de text pour la création de code](sections/ia.md)
 
 Chaque section est conçue pour être lue de manière indépendante, mais elles sont également liées entre elles pour
